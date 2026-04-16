@@ -1,2 +1,1 @@
-<>python
-pythoninfo()
+111
